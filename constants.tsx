@@ -25,12 +25,13 @@ export const ICONS = {
 };
 
 export const HARD_SKILLS: Skill[] = [
-    { name: "JavaScript" }, { name: "TypeScript" }, { name: "React" }, { name: "Redux" }, 
-    { name: "Zustand" }, { name: "Next.js" }, { name: "Node.js" }, { name: "Express" }, 
+    { name: "JavaScript" }, { name: "TypeScript" }, { name: "React" }, { name: "Redux" },
+    { name: "Zustand" }, { name: "Next.js" }, { name: "Node.js" }, { name: "Express" },
     { name: "NestJS" }, { name: "MongoDB" }, { name: "Prisma" }, { name: "Parse Server" },
-    { name: "CSS" }, { name: "Git" }, { name: "WebSocket" }, { name: "Stripe" }, 
-    { name: "Sequelize" }, { name: "Tailwind CSS" }, { name: "shadcn/ui" }, { name: "N8N" }, 
-    { name: "Akee" }, { name: "SCRUM" }, { name: "NPM" }, { name: "Python" }
+    { name: "CSS" }, { name: "Git" }, { name: "WebSocket" }, { name: "Stripe" },
+    { name: "Sequelize" }, { name: "Tailwind CSS" }, { name: "shadcn/ui" }, { name: "N8N" },
+    { name: "Akee" }, { name: "SCRUM" }, { name: "NPM" }, { name: "Python" },
+    { name: "Telegram Bot API" }, { name: "Google APIs" }, { name: "AI/ML" }, { name: "FAISS" }
 ];
 
 export const SOFT_SKILLS: Skill[] = [

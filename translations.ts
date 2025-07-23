@@ -245,6 +245,10 @@ export const translations: { en: Translation; es: Translation; } = {
         },
         achievements: [
             {
+                title: "Personal Automation Bot Development",
+                description: "Developed an advanced AI-powered Telegram bot integrating Gmail, Google Calendar, Google Drive, and AI services with custom RAG system and modular Python architecture for productivity automation.",
+            },
+            {
                 title: "HttpLazy Published on NPM",
                 description: "Successfully published 'HttpLazy', an open-source library recognized for its flexibility and modular design in handling API requests.",
             },
@@ -526,6 +530,10 @@ export const translations: { en: Translation; es: Translation; } = {
             show_less: "Mostrar Menos",
         },
         achievements: [
+            {
+                title: "Desarrollo de Personal Automation Bot",
+                description: "Desarrollé un bot de Telegram avanzado con IA que integra Gmail, Google Calendar, Google Drive y servicios de IA con sistema RAG personalizado y arquitectura modular en Python para automatización de productividad.",
+            },
             {
                 title: "HttpLazy Publicado en NPM",
                 description: "Publiqué exitosamente 'HttpLazy', una librería de código abierto reconocida por su flexibilidad y diseño modular en el manejo de solicitudes API.",
