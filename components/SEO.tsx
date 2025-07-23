@@ -11,9 +11,9 @@ interface SEOProps {
 }
 
 const SEO: React.FC<SEOProps> = ({
-  title = "Mauro José Ciappina | Full Stack Developer & Software Engineer",
+  title = "Mauro José Ciappina | Full Stack Developer",
   description = "Full Stack Developer especializado en React, TypeScript, Node.js y tecnologías modernas. Portfolio interactivo con proyectos innovadores y experiencia en desarrollo web.",
-  keywords = "Full Stack Developer, React Developer, TypeScript, JavaScript, Node.js, Frontend, Backend, Portfolio, Mauro Ciappina, Software Engineer, Web Developer",
+  keywords = "Full Stack Developer, React Developer, TypeScript, JavaScript, Node.js, Frontend, Backend, Portfolio, Mauro Ciappina, Web Developer",
   image = "https://mauro-ciappina-portfolio-mib3n28y2-mauroociappinaphs-projects.vercel.app/og-image.jpg",
   url = "https://mauro-ciappina-portfolio-mib3n28y2-mauroociappinaphs-projects.vercel.app/",
   type = "website",
