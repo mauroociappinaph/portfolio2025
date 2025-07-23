@@ -41,7 +41,8 @@ export const SOFT_SKILLS: Skill[] = [
 
 // This is kept to easily map static icons to dynamic, translated content
 export const ACHIEVEMENT_ICONS = [
-    { icon: ICONS.award },
-    { icon: ICONS.presentation },
-    { icon: ICONS.summit }
+    { icon: ICONS.beaker }, // Personal Automation Bot - AI/Tech innovation
+    { icon: ICONS.award }, // HttpLazy NPM
+    { icon: ICONS.presentation }, // Henry Bootcamp
+    { icon: ICONS.summit } // Deep Tech Summit
 ];
