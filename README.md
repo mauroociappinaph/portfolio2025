@@ -1,213 +1,198 @@
-# 🚀 Portfolio 2025 - Mauro José Ciappina
+# 👋 Hola, soy Mauro José Ciappina
 
 <div align="center">
 
-![Portfolio Preview](https://img.shields.io/badge/Portfolio-2025-blue?style=for-the-badge&logo=react)
-![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Portfolio Banner](https://img.shields.io/badge/Full%20Stack%20Developer-AI%20%26%20Automation-blue?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-green?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Argentina-lightblue?style=for-the-badge)
 
-**Un portfolio moderno e interactivo construido con React, TypeScript y Three.js**
+**Desarrollador Full Stack especializado en IA, Automatización y Tecnologías Modernas**
 
-[🌐 Ver Demo](https://mauro-ciappina-portfolio-mib3n28y2-mauroociappinaphs-projects.vercel.app) • [📧 Contacto](mailto:ciappinamaurooj@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/mauro-ciappina)
+[🌐 Ver Portfolio](https://mauro-ciappina-portfolio-lseg8kall-mauroociappinaphs-projects.vercel.app) • [📧 Contacto](mailto:ciappinamaurooj@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/mauro-ciappina)
 
 </div>
 
 ---
 
-## ✨ Características Principales
+## 🚀 Sobre Mí
 
-- 🎨 **Diseño Moderno**: Interfaz limpia y profesional con animaciones fluidas
-- 🌓 **Tema Claro/Oscuro**: Cambio dinámico entre temas con persistencia
-- 🌐 **Multiidioma**: Soporte completo para Español e Inglés
-- 🎭 **Efectos 3D**: Animaciones interactivas con Three.js y Simplex Noise
-- 📱 **Responsive**: Optimizado para todos los dispositivos
-- ⚡ **Performance**: Carga rápida y optimizada
-- 🔍 **SEO Optimizado**: Meta tags y estructura semántica
-- 🚀 **Deploy Automático**: CI/CD con GitHub Actions y Vercel
+Soy un **Desarrollador Full Stack** apasionado por combinar tecnología y creatividad. Con una licenciatura en **Comunicación Audiovisual** y experiencia profesional en desarrollo frontend y backend, me dedico a construir experiencias digitales impactantes.
+
+Mi trayectoria incluye desarrollo web, **inteligencia artificial, automatización** e integraciones de API, con un impulso constante por aprender e innovar en equipos colaborativos.
+
+### 🎯 Mi Filosofía
+
+> _"Escribo más código para escribir menos código"_ - Automatización y eficiencia son mi pasión.
+
+---
+
+## 💼 Experiencia Profesional
+
+### 🎮 **Dazlab** - Backend Developer
+
+_Oct 2024 – Jun 2025_
+
+- Desarrollo de backend para videojuegos con **WebSockets** y comunicación en tiempo real
+- Integración de **Stripe** para sistemas de pago y **Akee** para lógica de juego
+- Trabajo colaborativo en metodología **SCRUM**
+
+### 💡 **Hows Advisor** - Full Stack Developer
+
+_Mar 2024 – May 2024_
+
+- Desarrollo de plataforma **B2B** con stack moderno
+- Gestión de estado con **Zustand** y ORM con **Sequelize**
+- Implementación de funcionalidades con **TypeScript** y **React**
+
+### 📦 **Packar** - Full Stack Developer
+
+_Dic 2023 – Abr 2024_
+
+- Construcción de aplicación **SaaS C2C/B2B** completa
+- Autenticación segura con **NextAuth** y gestión de datos con **MongoDB**
+- Desarrollo full-stack con **Next.js** y **Node.js**
+
+---
 
 ## 🛠️ Stack Tecnológico
 
+<div align="center">
+
 ### Frontend
 
-- **React 18** - Biblioteca de UI con hooks modernos
-- **TypeScript** - Tipado estático para mayor robustez
-- **Vite** - Build tool ultrarrápido
-- **Tailwind CSS** - Framework de CSS utilitario
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 3D & Animaciones
+### Backend
 
-- **Three.js** - Gráficos 3D en el navegador
-- **Simplex Noise** - Generación de ruido para efectos visuales
-- **CSS Animations** - Transiciones y micro-interacciones
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Deployment & CI/CD
+### AI & Automation
 
-- **Vercel** - Hosting y deployment automático
-- **GitHub Actions** - Integración continua
-- **Git** - Control de versiones
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-## 🚀 Inicio Rápido
+</div>
 
-### Prerrequisitos
+---
 
-- Node.js 18+
-- npm o yarn
-- Git
+## 🌟 Proyectos Destacados
 
-### Instalación
+### 🤖 **Personal Automation Bot** (2025)
 
-1. **Clonar el repositorio**
+Sistema de automatización personal con IA que integra **Gmail**, **Google Calendar**, **Google Drive** y servicios de IA para automatizar tareas de productividad. Implementé un sistema **RAG personalizado**, motor de workflows y arquitectura modular en **Python**.
 
-```bash
-git clone https://github.com/mauroociappinaph/portfolio2025.git
-cd portfolio2025
-```
+**Tech Stack:** Python, Telegram Bot API, Google APIs, Groq AI, FAISS, OAuth 2.0
 
-2. **Instalar dependencias**
+### 📚 **HttpLazy** - Librería NPM
 
-```bash
-npm install
-```
+Toolkit de API modular en JS/TS diseñado para simplicidad y flexibilidad, con autenticación, reintentos, manejo de errores e interceptores integrados.
 
-3. **Configurar variables de entorno** (opcional)
+**Tech Stack:** JavaScript, TypeScript, NPM
+**Estado:** Publicado y activo en NPM
 
-```bash
-# Crear archivo .env.local
-echo "GEMINI_API_KEY=tu_api_key_aqui" > .env.local
-```
+### 🚀 **Deal Up!** - Proyecto Final Henry
 
-4. **Ejecutar en desarrollo**
+Aplicación full-stack que conecta emprendedores e inversores. Desarrollado con **Redux Toolkit** para gestión de estados complejos y metodología **SCRUM**.
 
-```bash
-npm run dev
-```
+**Tech Stack:** Next.js, Redux Toolkit, Node.js
 
-5. **Abrir en el navegador**
+---
 
-```
-http://localhost:5173
-```
+## 🏆 Logros y Reconocimientos
 
-### Scripts Disponibles
+- 🤖 **Desarrollo de Personal Automation Bot** - Sistema avanzado de IA para automatización de productividad
+- 📦 **HttpLazy Publicado en NPM** - Librería reconocida por su flexibilidad y diseño modular
+- 🎓 **Presentación Final Henry Bootcamp** - Demo Day con aplicación full-stack completa
+- 🚀 **Deep Tech Summit 2025** - Participación activa en debates sobre IA y biotecnología
 
-```bash
-npm run dev      # Servidor de desarrollo
-npm run build    # Build de producción
-npm run preview  # Preview del build
-```
+---
 
-## 📁 Estructura del Proyecto
+## 🎓 Educación & Certificaciones
 
-```
-portfolio2025/
-├── components/           # Componentes React reutilizables
-│   ├── Header.tsx       # Navegación principal
-│   ├── Hero.tsx         # Sección hero con efectos 3D
-│   ├── Projects.tsx     # Showcase de proyectos
-│   ├── ThreeDScene.tsx  # Escena 3D con Three.js
-│   └── ...
-├── public/              # Archivos estáticos
-│   ├── favicon.svg      # Favicon personalizado
-│   └── ...
-├── translations.ts      # Configuración de idiomas
-├── types.ts            # Definiciones de TypeScript
-├── constants.tsx       # Constantes de la aplicación
-├── LanguageContext.tsx # Context para multiidioma
-└── App.tsx            # Componente principal
-```
+### 📚 **Educación**
 
-## 🎨 Características Destacadas
+- **Full Stack Developer** - Henry Bootcamp (2023)
+- **Comunicación Audiovisual** - Universidad Nacional de Mar del Plata (2018-2022)
 
-### 🌊 Efectos 3D Interactivos
+### 🏅 **Certificaciones**
 
-- Fondo animado con partículas flotantes
-- Respuesta a movimientos del mouse
-- Transiciones suaves entre secciones
+- **Lean Six Sigma White Belt** - CertiProf (2024)
+- **JavaScript Algorithms and Data Structures** - freeCodeCamp (300 horas)
+- **Scrum Fundamentals** - LinkedIn Learning
+- **Backend Programming** - Argentina Programa
 
-### 📱 Diseño Responsive
+---
 
-- Mobile-first approach
-- Breakpoints optimizados
-- Touch-friendly interactions
+## 💬 Lo que dicen de mí
 
-### 🌍 Internacionalización
+> _"Mauro demostró desde el primer día una adaptación rápida al entorno de trabajo, siempre dedicado y con un gran sentido de la responsabilidad."_ > **Jon Nahuel Pereyra** - Director de Backend en Dazlab
 
-- Cambio dinámico de idioma
-- Contenido localizado
-- URLs amigables para SEO
+> _"El desarrollo de la plataforma Packar por parte de Mauro fue sobresaliente. Tradujo expertamente nuestra visión de negocio en una aplicación SaaS robusta y de alta calidad."_ > **Antonio Medina Vázquez** - Fundador y CEO en Packar
 
-### ⚡ Optimizaciones de Performance
+---
 
-- Lazy loading de componentes
-- Optimización de imágenes
-- Code splitting automático
-- Caching inteligente
+## 🌐 Este Portfolio
 
-## 🚀 Deployment
+Este portfolio es más que una simple presentación - es una demostración de mis habilidades técnicas:
 
-### Vercel (Recomendado)
+### ✨ **Características Técnicas**
 
-El proyecto está configurado para deployment automático en Vercel:
+- **React 18** con **TypeScript** para desarrollo robusto
+- **Three.js** para efectos 3D interactivos y animaciones
+- **Tailwind CSS** para diseño responsive y moderno
+- **Internacionalización** completa (ES/EN)
+- **SEO optimizado** con meta tags y structured data
+- **PWA ready** con manifest y service workers
+- **Deploy automático** con Vercel y GitHub Actions
 
-1. Fork este repositorio
-2. Conecta tu cuenta de Vercel con GitHub
-3. Importa el proyecto en Vercel
-4. ¡Deploy automático en cada push!
+### 🎨 **Experiencia de Usuario**
 
-### GitHub Pages
+- Tema claro/oscuro dinámico
+- Animaciones fluidas y micro-interacciones
+- Diseño responsive para todos los dispositivos
+- Efectos 3D que responden al mouse
+- Carga optimizada y performance superior
 
-También incluye workflow para GitHub Pages:
+---
 
-```yaml
-# .github/workflows/deploy.yml
-name: Deploy to GitHub Pages
-on:
-  push:
-    branches: [main]
-# ... configuración automática
-```
+## 📈 Estadísticas GitHub
 
-## 🤝 Contribuciones
+<div align="center">
 
-Las contribuciones son bienvenidas. Para cambios importantes:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauroociappinaph&show_icons=true&theme=radical)
 
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauroociappinaph&layout=compact&theme=radical)
 
-## 📋 Roadmap
+</div>
 
-- [ ] Blog integrado con MDX
-- [ ] Modo de presentación
-- [ ] Analytics avanzados
-- [ ] PWA support
-- [ ] Más efectos 3D interactivos
+---
 
-Ver [Issues](https://github.com/mauroociappinaph/portfolio2025/issues) para la lista completa de características propuestas.
+## 🤝 ¿Trabajamos Juntos?
 
-## 📄 Licencia
+Estoy siempre abierto a nuevas oportunidades y colaboraciones. Si tienes un proyecto en mente o simplemente quieres conectar, ¡mi inbox está siempre abierto!
 
-Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
+### 📞 **Contacto**
 
-## 📞 Contacto
-
-**Mauro José Ciappina**
-
-- 🌐 Portfolio: [mauro-ciappina-portfolio.vercel.app](https://mauro-ciappina-portfolio-mib3n28y2-mauroociappinaphs-projects.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/mauro-ciappina](https://linkedin.com/in/mauro-ciappina)
-- 📧 Email: ciappinamaurooj@gmail.com
-- 🐙 GitHub: [@mauroociappinaph](https://github.com/mauroociappinaph)
+- 🌐 **Portfolio:** [mauro-ciappina-portfolio.vercel.app](https://mauro-ciappina-portfolio-lseg8kall-mauroociappinaphs-projects.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/mauro-ciappina](https://linkedin.com/in/mauro-ciappina)
+- 📧 **Email:** ciappinamaurooj@gmail.com
+- 🐙 **GitHub:** [@mauroociappinaph](https://github.com/mauroociappinaph)
 
 ---
 
 <div align="center">
 
-**⭐ Si te gusta este proyecto, dale una estrella en GitHub ⭐**
+**⭐ Si mi trabajo te interesa, dale una estrella a este repositorio ⭐**
 
-Hecho con ❤️ por [Mauro José Ciappina](https://github.com/mauroociappinaph)
+_Construyamos el futuro juntos, una línea de código a la vez._
+
+**Hecho con ❤️ y mucho ☕ por Mauro José Ciappina**
 
 </div>
